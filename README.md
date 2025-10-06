@@ -1,2 +1,3 @@
 # git-demo
-this is first git repo
+This is first git repo
+Auther - Kanhaiya
